@@ -1,5 +1,6 @@
-#include <templatebot/templatebot.h>
-#include <sstream>
+#include <dpp/dpp.h>
+#include <dpp/nlohmann/json.hpp>
+
 
 /* When you invite the bot, be sure to invite it with the
  * scopes 'bot' and 'applications.commands', e.g.
